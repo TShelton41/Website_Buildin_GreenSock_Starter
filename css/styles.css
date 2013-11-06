@@ -36,8 +36,8 @@ p, h1, h2, h3, h4, h5 {
 .fullwidthBar {
     background-color: #002c35;
     height: 35px;
-    opacity: 0;
-    display: none;
+    /*opacity: 0;*/
+    /*display: none;*/
 }
 
 nav {
@@ -73,8 +73,8 @@ header {
     height: 280px;
     color: #FFFFFF;
     margin: 0 auto;
-    opacity: 0;
-    display: none;
+    /*opacity: 0;*/
+    /*display: none;*/
     overflow: hidden;
     letter-spacing: 1px;
 }
@@ -108,6 +108,8 @@ header #descText{
     left: 250px;
     top: 24px;
     display: inline-block;
+    opacity: 0;
+    display: none;
 }
 
 header #browserHolder img {
@@ -133,8 +135,8 @@ header #titleText {
 #events {
     position: relative;
     min-height: 330px;
-    opacity: 0;
-    display: none;
+    /*opacity: 0;*/
+    /*display: none;*/
     margin-top: 10px;
     padding: 10px 40px 40px 40px;
     background-color: #01313b;
@@ -175,8 +177,8 @@ figcaption {
 #info {
     position: relative;
     min-height: 330px;
-    opacity: 0;
-    display: none;
+    /*opacity: 0;*/
+    /*display: none;*/
     margin-top: 10px;
     padding: 10px 40px 40px 40px;
     background-color: #01313b;
@@ -206,6 +208,6 @@ footer {
     bottom: 35px;
     height: 35px;
     line-height: 35px;
-    opacity: 0;
-    display: none;
+    /*opacity: 0;*/
+    /*display: none;*/
 }
